@@ -1,0 +1,4 @@
+<article>
+  <h2>javascript란?</h2>
+  javascript는 html을 제어합니다.
+</article>
